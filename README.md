@@ -6,8 +6,14 @@ Mura is a panel defect, i.e., an uneven or irregular region on a display panel, 
 This work proposes a new quantitative Mura evaluation metric that can measure the severity of Mura defects in the panel display.
 This work is now in revision at Measurement [link](https://www.sciencedirect.com/journal/measurement)
 
-### Overall architectures
-<img src="./Figures/Fig2.png">
+### Correlation between subjective rankings and human perceptive features
+<center>
+  <img
+    src="./Figures/Fig7.png"
+    width="640"
+    height="480"
+    />
+</center>
 
 ### Convolutional autoencoder and variational autoencoder
 We used three background estimation methods: polynomial regression, convolutional autoencoder, and variational autoencoder.
