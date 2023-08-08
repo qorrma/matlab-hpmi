@@ -7,6 +7,7 @@ This work proposes a new quantitative Mura evaluation metric that can measure th
 This work is now in revision at Measurement [link](https://www.sciencedirect.com/journal/measurement)
 
 ### Overall architectures
+<img src="./Figures/Fig2.png">
 
 ### Convolutional autoencoder and variational autoencoder
 We used three background estimation methods: polynomial regression, convolutional autoencoder, and variational autoencoder.
